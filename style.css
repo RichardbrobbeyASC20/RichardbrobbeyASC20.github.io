@@ -1,0 +1,114 @@
+h1 { 
+
+    text-align: center; 
+
+    font-family: 'Oswald', sans-serif; 
+
+    font-size: 60px; 
+
+    width: 60%; 
+
+    margin: auto; 
+
+    color: rgb(29, 179, 248); 
+
+    text-shadow: -3px 3px 3px black; 
+
+  } 
+  h2
+  {
+    text-align: center; 
+
+    font-family: 'Oswald', sans-serif; 
+
+    font-size: 60px; 
+
+    width: 60%; 
+
+    margin: auto; 
+
+    color: rgb(29, 179, 248); 
+
+    text-shadow: -3px 3px 3px black; 
+
+  }
+  .topnav { 
+
+    background-color: rgba(29, 179, 248, 0.815); 
+
+    overflow: hidden; 
+
+    display: flex; 
+
+    justify-content: space-around; 
+
+    font-family: 'IBM Plex Sans', sans-serif; 
+
+  } 
+
+   
+
+  /* Style the links inside the navigation bar */ 
+
+  .topnav a { 
+
+    float: left; 
+
+    color: white; 
+
+    text-align: center; 
+
+    padding: 16px 17px; 
+
+    text-decoration: none; 
+
+    font-size: 18px; 
+
+  } 
+
+   
+
+  /* Change the color of links on hover */ 
+
+  .topnav a:hover { 
+
+    background-color: rgba(29, 179, 248, 0.815); 
+
+    height: 23px; 
+
+    color: red; 
+
+  } 
+
+   
+
+  /* Add a color to he active/current link */ 
+
+  .topnav a.active { 
+
+    margin-bottom: 17px; 
+
+    color: white; 
+
+    text-shadow: -3px 3px 2px black; 
+
+    font-size: 30px; 
+
+    height: 45px; 
+    text-align: center;
+
+  } 
+  .con
+  {
+      background-color: steelblue;
+      text-align: center;
+  }
+  span
+  {
+      background-color: brown;
+      font-size: larger;
+      text-align: center;
+      color: rgb(189, 45, 189);
+  }
+
+  
